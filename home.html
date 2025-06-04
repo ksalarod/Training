@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {box-sizing: border-box}
+
+/* Set height of body and the document to 100% */
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial;
+}
+
+img {
+
+  max-width: 100%;
+  height: auto;
+
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);'
+
+  text-align: center;
+  padding: 10px 20px;
+}
+
+/* Style tab links */
+.tablink {
+  background-color: #eec0c8;
+  color: white;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  font-size: 17px;
+  width: 25%;
+}
+
+.tablink:hover {
+  background-color: white;
+  color: black;
+}
+
+/* Style the tab content (and add height:100% for full page content) */
+.tabcontent {
+  color: black;
+  display: none;
+  padding: 100px 20px;
+  height: 100%;
+  text-align: center;
+}
+
+#Bunny Diet {background-color: black;}
+#Bunny Habitat {background-color: #F9629F;}
+#Toxic Foods {background-color: #FFC72C;}
+#Bunny Games {background-color: #32de84;}
+</style>
+</head>
+<body>
+
+<button class="tablink" onclick="openPage('Bunny Diet', this, 'pink')">Bunny Diet</button>
+<button class="tablink" onclick="openPage('Bunny Habitat')" id="defaultOpen">Bunny Habitat</button>
+<button class="tablink" onclick="openPage('Toxic Foods')">Toxic Foods</button>
+<button class="tablink" onclick="openPage('Bunny Games')">Bunny Games</button>
+
+<div id="Bunny Diet" class="tabcontent">
+  <h3>Bunny Diet</h3>
+    <p>A bunnies diet should consist of 80% hay.</p>
+    <p>Bunnies should have access to unlimited hay as it is essential for them to avoid G.I. stasis which is be deadly.</p>
+    <p>Treats like certain safe fresh fruits and vegetables should be given in moderation. </p>
+    <p>Dried herbs and flowers may also be given as treats.</p>
+    <p> Bunnies may also eat rabbit pellets sparingly.</p>
+    <div class="images">
+    <img src="bunnyhay.jpg" alt="Bunny Eating Hay">
+    </div>
+</div>
+
+<div id="Bunny Habitat" class="tabcontent">
+  <h3>Bunny Habitat</h3>
+    <p>Bunnies should have ample space to hop around and exercise. They do not belong in cages! </p>
+    <p>Because bunnies are curious explorer by nature, it is of upmost importance you bunny proof your home.</p>
+    <p>The use of baby gates is suggested to keep bunnies from roaming in dangerous areas.</p>
+    <p> Bunnies are also prone to chewing on cords. Cords should be covered to avoid electrocution.</p>
+    <p> Bunnies should be able to hop in a carpeted area that will have traction and be soft enough so they avoid injury.</p>
+    <img src="bunnyhabitat.jpg" alt="Bunny Running in Habitat">
+
+</div>
+
+<div id="Toxic Foods" class="tabcontent">
+  <h3>Toxic Foods</h3>
+  <p>The following food should be avoided as they are toxic to your bunny:</p>
+  <p>Avocados</p>
+  <p>Chocolate</p>
+  <p>Fruit seeds/pits</p>
+  <p>Raw onions, leeks, garlic</p>
+  <p>Meat, eggs, dairy</p>
+  <p>Broad beans and kidney beans</p>
+  <p>Rhubarb</p>
+  <p>Iceberg lettuce</p>
+  <p>Mushrooms</p>
+  <p>House plants</p>
+  <p>Processed foods (bread, pasta, cookies, crackers, chips, etc.)</p>
+  <p>Raw potatoes</p>
+  <img src="bunnydoc.jpg" alt="Bunny Dressed as Doctor">
+
+
+</div>
+
+<div id="Bunny Games" class="tabcontent">
+  <h3>Bunny Games</h3>
+  <p><b><i>Bunnies require mental and physical stimulation in order to be happy. The following are games you can play:</i></b></p>
+<p>The Nibble and Sprint: Take a small bunch of tasty, scented greens – such as parsley – and sit near your bunnies. Let them come over to investigate and reward them with a little nibble. Then move to another spot and call your rabbits’ names and, when they follow, offer them another tasty titbit. </p>
+<p>Magic Cups: Take two to three plastic cups (transparent for beginners), your bun’s favourite food, and sit down with your pets. Extra tasty herbs can work well for this game. Place a little food inside the cups and put them upside down on the ground. Now encourage your bunnies to come over to investigate and to get the treat out </p>
+<p>The Hopping Challenge: Build a low wall out of cardboard boxes, such as the ones fizzy drink cans come in, and encourage your buns to hop over them by repeating the word “hop” and holding a tasty treat in front of them. When they make the leap, reward them with the treat, along with lots of praise.</p>
+<img src="bunnygames.jpg" alt="Bunny Playing Games">
+
+</div>
+
+<script>
+function openPage(pageName,elmnt,color) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablink");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].style.backgroundColor = "";
+  }
+  document.getElementById(pageName).style.display = "block";
+  elmnt.style.backgroundColor = color;
+}
+
+// Get the element with id="defaultOpen" and click on it
+document.getElementById("defaultOpen").click();
+</script>
+   
+</body>
+</html> 
+
+
+</html> 
