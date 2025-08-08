@@ -70,5 +70,114 @@
         "li3": "Si falta algún artículo en la hoja de reposición, avisa a Karla o Rosa y ellas te ayudarán."
       }
     }
+  },
+  "shipping": {
+    "title": "Guía de envíos y recepciones",
+    "overview": {
+      "title": "Resumen de envíos y recepciones:",
+      "li1": "Carga y descarga contenedores con producto nuevo y existente.",
+      "li2": "Arma tarimas con 6 / 7 / 8 cajas para clasificación y sobrestock.",
+      "li3": "Cuenta los SKUs entrantes para compararlos con las hojas de inventario.",
+      "li4": "Levanta cajas con un máximo de 50 lb.",
+      "li5": "Opera una transpaleta para mover tarimas apiladas hasta 7 pies."
+    },
+    "skills": {
+      "title": "Habilidades a conocer:",
+      "li1": "Cómo armar correctamente una tarima.",
+      "li2": "Cómo identificar si una tarima es adecuada o no.",
+      "li3": "Cómo usar plástico stretch / mangos para envolver.",
+      "li4": "Cómo etiquetar correctamente una tarima para envío.",
+      "li5": "Cómo imprimir etiquetas de tarima para sobrestock.",
+      "li6": "Levantar con las rodillas, no con la espalda."
+    },
+    "pallet": {
+      "title": "Configuración de tarima:",
+      "imgAlt": "ilustración de tarimas"
+    }
+  },
+  "picking": {
+    "title": "Guía de picking",
+    "videoNote": "Mira este video para ver el proceso de picking/clasificación de principio a fin",
+    "overview": {
+      "title": "Resumen de picking:",
+      "li1": "Toma una lista de picking y las guías de empaque debajo del cajón negro ranurado cerca de la computadora de pedidos.",
+      "li2": "Lleva un carrito a la primera ubicación siguiendo la ruta de picking de A06-100 a C32-405.",
+      "li3": "Recoge los artículos y apílalos de forma organizada y productiva.",
+      "li4": "Corta correctamente las cajas en los estantes.",
+      "li5": "Separa el pedido en contenedores.",
+      "li6": "Trabaja un pedido a la vez; coloca cada artículo en el contenedor azul o negro.",
+      "li7": "Cuando el contenedor del pedido esté completo y ordenado, coloca la guía de empaque encima.",
+      "li8": "Repite hasta vaciar el carrito.",
+      "li9": "Reabastece los estantes vacíos."
+    },
+    "skills": {
+      "title": "Habilidades a conocer:",
+      "li1": "Cómo leer la info de la caja (SKU, cantidad, tallas mixtas).",
+      "li2": "Cómo usar contenedores azules para producto de bajo inventario.",
+      "li3": "Corta por las líneas punteadas al abrir una caja en el estante.",
+      "li4": "Cómo acceder a tarimas de sobrestock con banquito o escalera.",
+      "li5": "Cuándo un SKU está preparado para una oferta y no en estante.",
+      "li6": "Cómo distinguir artículo devuelto o nuevo y si sirve para mayoristas.",
+      "li7": "Cómo leer etiquetas de sobrestock para reabastecer.",
+      "li8": "Cómo leer la pantalla “Order” de ShipStation e identificar etiquetas.",
+      "li9": "Dónde colocar pedidos que no se pueden completar."
+    }
+  },
+  "packing": {
+    "title": "Guía de empaque",
+    "videoNote": "Mira este video para ver el proceso de empaque de principio a fin",
+    "overview": {
+      "title": "Resumen de empaque:",
+      "li1": "Opera una estación (1–12) con computadora, escáner y bolsas/cajas para cumplir pedidos.",
+      "li2": "Empaca y maneja correctamente pedidos .com / Amazon y mayoristas.",
+      "li3": "Separa los pedidos en el contenedor apropiado.",
+      "li4": "Pedidos .com y mayoristas van al camión.",
+      "li5": "Pedidos de Amazon y FedEx 2Day van al contenedor de FedEx.",
+      "li6": "Pedidos USPS van a la bolsa del transportista USPS.",
+      "li7": "Mantén la estación surtida (bolsas, cinta, etc.) y limpia."
+    },
+    "skills": {
+      "title": "Habilidades a conocer:",
+      "li1": "Cómo empacar un pedido en menos de 1 minuto.",
+      "li2": "Cómo navegar ShipStation (Orders, Products, Scan).",
+      "li3": "Cómo armar y empacar cajas correctamente.",
+      "li4": "No cajas de más de 50 lb.",
+      "li5": "Escribe el # en la caja para las etiquetas de envío.",
+      "li6": "Cartón delgado debajo y encima de la ropa.",
+      "li7": "Guía de empaque DENTRO de la caja.",
+      "li8": "Solo ropa “Marshmallow” en caja 24x14x20.",
+      "li9": "Distinguir entre artículo nuevo y reacondicionado.",
+      "li10": "Pedidos mayoristas DEBEN llevar artículos nuevos (sticker en la esquina inferior derecha de la bolsa).",
+      "li11": "Pedidos .com / Amazon pueden llevar artículos reacondicionados.",
+      "li12": "Nunca dos bolsas cerradas y sin etiqueta en la estación; trabaja un pedido a la vez."
+    },
+    "howAmazon": {
+      "title": "Cómo empacar un pedido “.com” / Amazon:",
+      "li1": "Asegúrate de que “ShipStation Connect” esté abierto e iniciado sesión.",
+      "li2": "Abre shipstation.com y ve a “Scan”.",
+      "li3": "Toma UNA guía de empaque del cajón negro y todos los artículos debajo hasta la siguiente guía.",
+      "li4": "Escanea el código de barras al final de la guía de empaque.",
+      "li5": "Escanea todos los artículos hasta ver la verificación en verde (sonará un ping por cada escaneo correcto).",
+      "li6": "Selecciona tamaño de bolsa (mediana/grande) o caja (24x14x6, 17x14x10, etc.).",
+      "li7": "Pedidos Amazon: usa FedEx One Rate Pak cuando sea posible.",
+      "li8": "Haz clic/escanea “Print”.",
+      "li9": "Dobla la guía y colócala dentro; sella completamente para evitar que se peguen.",
+      "li10": "Aplica la etiqueta del impresor térmico de forma centrada/limpia."
+    },
+    "howWholesale": {
+      "title": "Cómo empacar un pedido mayorista:",
+      "li1": "Repite los pasos 1–4 anteriores.",
+      "li2": "Separa artículos por SKU, color y talla.",
+      "li3": "Escanea desde la talla más grande de cada SKU; coloca los artículos en la caja uno por uno.",
+      "li4": "Agrupa colores del mismo SKU (p. ej., 8900-8-Black-2X-3X, 8900-8-Black-XL, 8900-8-Coco-2X-3X...).",
+      "li5": "Cuando todo esté tallado, escaneado y empacado, pesa cada caja.",
+      "li6": "Ingresa peso y dimensiones de cada caja en ShipStation.",
+      "li7": "Haz clic en “Print”.",
+      "li8": "Usa FedEx Ground salvo que se indique lo contrario.",
+      "li9": "Coloca la etiqueta numerada en la caja correspondiente.",
+      "li10": "Todas las cajas están listas para cargar al camión."
+    },
+    "wholesaleVideoNote": "Mira este video para ver el proceso de empaque mayorista de principio a fin"
   }
 }
+
