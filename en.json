@@ -70,5 +70,114 @@
         "li3": "If there are any items missing from the put away sheet, let Karla or Rosa know and they will help you."
       }
     }
+  },
+  "shipping": {
+    "title": "Shipping & Receiving Guide",
+    "overview": {
+      "title": "Shipping & Receiving Overview:",
+      "li1": "Load and unload containers with new & existing product.",
+      "li2": "Build 6 / 7 / 8 box setup pallets for sorting and overstock.",
+      "li3": "Count incoming SKUs to match with inventory sheets.",
+      "li4": "Lift boxes at a maximum of 50 lbs.",
+      "li5": "Operate a pallet jack to move pallets stacked up to 7 ft."
+    },
+    "skills": {
+      "title": "Skills to know:",
+      "li1": "How to properly build a pallet.",
+      "li2": "How to identify if a pallet is good or bad for use.",
+      "li3": "How to use shrink wrap / wrap handles.",
+      "li4": "How to properly label a pallet for shipping.",
+      "li5": "How to print pallet labels for overstock.",
+      "li6": "Lift with knees, not back."
+    },
+    "pallet": {
+      "title": "Pallet Setup:",
+      "imgAlt": "illustration of pallets"
+    }
+  },
+  "picking": {
+    "title": "Picking Guide",
+    "videoNote": "Please watch this video to see what the picking/sorting process looks like from start to finish",
+    "overview": {
+      "title": "Picking Overview:",
+      "li1": "Grab one pick list & packing slips underneath from black slotted bin near order computer.",
+      "li2": "Take a cart to the first location on the pick list following the picking path from A06-100 to C32-405.",
+      "li3": "Pick items and stack them in an organized and productive way.",
+      "li4": "Properly cut boxes on shelves.",
+      "li5": "Separate order into bins.",
+      "li6": "Separate one order at a time; place each item in the blue or black bin.",
+      "li7": "When the order bin is complete and neat, place the packing slip on top.",
+      "li8": "Repeat until the cart is cleared of all items.",
+      "li9": "Restock empty shelves."
+    },
+    "skills": {
+      "title": "Skills to Know:",
+      "li1": "How to read box info (SKU, quantity, mixed size contents).",
+      "li2": "How to use blue bins for low-inventory product.",
+      "li3": "Cut along dotted lines when opening a box on the shelf.",
+      "li4": "How to access overstock pallets using a stool or ladder.",
+      "li5": "When a SKU is staged for a sale and not in a shelf location.",
+      "li6": "How to tell when an item is returned or new and whether it can be used for Wholesale.",
+      "li7": "How to read overstock labels to restock shelves.",
+      "li8": "How to read ShipStation’s “Order” screen and identify order tags.",
+      "li9": "Where to put orders that cannot be fulfilled."
+    }
+  },
+  "packing": {
+    "title": "Packing Guide",
+    "videoNote": "Please watch this video to see what the packing process looks like from start to finish",
+    "overview": {
+      "title": "Packing Overview:",
+      "li1": "Operate a station (1–12) using a computer, scanner, and poly bags/boxes to fulfill orders.",
+      "li2": "Properly pack & handle “.com” / Amazon and wholesale orders.",
+      "li3": "Separate orders into appropriate bin.",
+      "li4": ".com & wholesale orders go onto truck.",
+      "li5": "Amazon & FedEx 2Day orders go in FedEx bin.",
+      "li6": "USPS orders go into USPS carrier bag.",
+      "li7": "Keep stations stocked (poly bags, tape, etc.) and clean."
+    },
+    "skills": {
+      "title": "Skills to Know:",
+      "li1": "How to pack an order in under 1 minute.",
+      "li2": "How to navigate ShipStation (Orders, Products, Scan).",
+      "li3": "How to properly build & pack boxes.",
+      "li4": "No boxes over 50 lbs.",
+      "li5": "Write # on box for shipping labels.",
+      "li6": "Thin cardboard underneath & above clothes.",
+      "li7": "Packing slip INSIDE the box.",
+      "li8": "Only “Marshmallow” clothing into 24x14x20 box.",
+      "li9": "Know the difference between new vs refurbished.",
+      "li10": "Wholesale orders MUST have new items (sticker bottom-right of poly bag).",
+      "li11": ".com / Amazon orders can use refurbished items.",
+      "li12": "Never two closed & unlabeled bags at a station; work one order at a time."
+    },
+    "howAmazon": {
+      "title": "How to pack a “.com” / Amazon order:",
+      "li1": "Ensure “ShipStation Connect” is open & logged in.",
+      "li2": "Open shipstation.com and go to “Scan”.",
+      "li3": "Grab ONE packing slip from black bin & all items underneath until the next packing slip.",
+      "li4": "Scan the barcode at the bottom of the packing slip.",
+      "li5": "Scan all items until you see a green verification screen (you’ll hear a ping for correct scans).",
+      "li6": "Select bag size (med/large poly) or box size (24x14x6, 17x14x10, etc.).",
+      "li7": "Amazon orders: use FedEx One Rate Pak when able.",
+      "li8": "Click/scan “Print”.",
+      "li9": "Fold packing slip & place inside; seal bag/box completely to avoid sticking.",
+      "li10": "Apply shipping label from thermal printer neatly (poly center / box corner)."
+    },
+    "howWholesale": {
+      "title": "How to pack a “Wholesale” order:",
+      "li1": "Repeat steps 1–4 above.",
+      "li2": "Separate items by SKU, color, and size.",
+      "li3": "Scan items starting at the largest size for each SKU; place items into a box one at a time.",
+      "li4": "Group colors for a SKU together (e.g., 8900-8-Black-2X-3X, 8900-8-Black-XL, 8900-8-Coco-2X-3X...).",
+      "li5": "When sized, scanned, and packed, weigh each box on a scale.",
+      "li6": "Enter weights and dimensions for each box in ShipStation.",
+      "li7": "Click “Print”.",
+      "li8": "Ship FedEx Ground unless otherwise specified.",
+      "li9": "Put the numbered label on the matching box.",
+      "li10": "All boxes are ready to load onto the truck."
+    },
+    "wholesaleVideoNote": "Please watch this video to see what the wholesale packing process looks like from start to finish"
   }
 }
+
