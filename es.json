@@ -1,0 +1,74 @@
+{
+  "returns": {
+    "title": "Guía de devoluciones",
+    "videoNote": "Mira este video para ver cómo es el proceso de devoluciones de principio a fin",
+    "sections": {
+      "receiving": {
+        "title": "Recepción física de paquetes",
+        "li1": "Las devoluciones llegan a diario por USPS, FedEx y UPS. Los paquetes devueltos se colocan dentro del contenedor Gaylord verde ubicado en la tercera puerta del muelle.",
+        "li2": "Puedes recoger estos paquetes con un carrito y llevarlos al área de devoluciones ubicada al fondo del almacén.",
+        "li3": "Si el Gaylord está completamente lleno, deberá moverse con una transpaleta y reemplazarse por uno vacío.",
+        "li4": "En los picos de trabajo, estos paquetes deben separarse por fecha de llegada.",
+        "li5": "Etiqueta cada lote de devoluciones según la fecha de llegada."
+      },
+      "qc": {
+        "title": "Inspección / Control de calidad",
+        "li1": "Trabaja con un paquete a la vez y ábrelo con cuidado para no dañar los artículos. Lo mejor es hacer una abertura pequeña primero y luego ampliarla con cuidado.",
+        "li2": "Una vez abierto el paquete, coloca los artículos para la inspección, asegurándote de mantener juntas las partes superior e inferior de cada juego.",
+        "li3": "Al revisar diferentes juegos de pijamas, es mejor trabajar con un par a la vez para evitar mezclar tallas por accidente.",
+        "li4": "Inspecciona cada artículo cuidadosamente en busca de defectos.",
+        "li5": "Usa rodillos quitapelusa para retirar pelusa.",
+        "li6": "A veces, las pequeñas manchas se pueden quitar limpiándolas con una toalla de papel.",
+        "li7": "Si un artículo tiene demasiado pelo de mascota, deberá darse de baja como dañado.",
+        "li8": "Los hilos sueltos pequeños se pueden recortar con cuidado. Huele los artículos por perfume u olores desagradables para asegurarte de que no hayan sido lavados o usados.",
+        "li9": "Hacemos lo posible por reacondicionar artículos y evitar darlos de baja, pero deben quedar en condiciones vendibles.",
+        "li10": "Recuerda: nuestro objetivo es que el cliente tenga una experiencia positiva al recibir el producto."
+      },
+      "docs": {
+        "title": "Documentación",
+        "li1": "Normalmente recibimos una guía de empaque dentro de los paquetes de devolución. Si no la encuentras, recorta la etiqueta del paquete y úsala en su lugar.",
+        "li2": "Asegúrate de documentar la fecha de llegada, número de artículo, color, talla, últimos cuatro dígitos del UPC, cantidad, número de orden y condición de los artículos.",
+        "li3": "Si falta información, documenta la mayor cantidad de datos posible sobre la devolución.",
+        "li4": "Si falta el número de orden, usa el nombre del remitente y el número de rastreo.",
+        "li5": "Mantén toda la documentación en orden. Estas hojas deben separarse por fecha y entregarse a Rosa o Karla para el siguiente paso del proceso de recepción."
+      },
+      "repack": {
+        "title": "Reempaque",
+        "li1": "Después de inspeccionar y limpiar los artículos, dóblalos y embólvalos; luego colócalos en un carrito o Gaylord para devolverlos más tarde a los estantes.",
+        "li2": "Asegúrate de doblar los artículos prolijamente para que se vean como nuevos.",
+        "li3": "Si no estás seguro de cómo doblar algo, pregunta a Karla o Rosa y ellas te ayudarán."
+      },
+      "retags": {
+        "title": "Reetiquetados",
+        "li1": "Los artículos en buen estado pero sin etiqueta se registrarán como reetiquetados. Deben doblarse y embolsarse con normalidad, pero se colocarán en cajas en el área de reetiquetado.",
+        "li2": "Si la etiqueta solo se desprendió, tenemos pistolas de etiquetas para volver a fijarla y podemos mostrarte cómo usarlas."
+      },
+      "damages": {
+        "title": "Daños",
+        "li1": "Los artículos dañados también deben documentarse. Explica el daño por escrito lo mejor posible y colócalo en una bolsa junto con la documentación.",
+        "li2": "Las devoluciones dañadas van a la sección de dañados dentro de contenedores negros pequeños para ser fotografiadas. Después, se colocan en una caja para donación."
+      },
+      "cleaning": {
+        "title": "Limpieza",
+        "imgAlt": "mujer moviendo cajas",
+        "li1": "Limpia mientras trabajas para mantener un entorno seguro y sin desorden.",
+        "li2": "Las cajas deben cortarse con cutter y desecharse en los contenedores rojos.",
+        "li3": "Cuando los contenedores rojos estén llenos, vacíalos en el basurero.",
+        "li4": "Tira el resto de la basura en los botes negros. Cuando se llenen, retira la bolsa y reemplázala.",
+        "li5": "Al final del día, el área de devoluciones debe quedar lo más ordenada posible."
+      },
+      "inventory": {
+        "title": "Recepción de inventario",
+        "imgAlt": "mujer escribiendo en computadora",
+        "li1": "Después de la inspección, las devoluciones se registran en una hoja de recepción diaria y se ingresan en NetSuite."
+      },
+      "putaway": {
+        "title": "Reabastecer artículos devueltos",
+        "imgAlt": "estanterías de almacén",
+        "li1": "El paso final del proceso es regresar los artículos a los estantes. Para hacerlo, recibirás una hoja de reposición que te muestra la ubicación de cada artículo dentro del almacén.",
+        "li2": "Revisa la lista con cuidado y pon los artículos en el área correcta de forma ordenada. Se proporcionarán un portapapeles y un marcador.",
+        "li3": "Si falta algún artículo en la hoja de reposición, avisa a Karla o Rosa y ellas te ayudarán."
+      }
+    }
+  }
+}
