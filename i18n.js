@@ -6,7 +6,7 @@
   // Load a language file and update the page
   async function loadLang(lang) {
     // Fetch the JSON dictionary file for the chosen language
-    const res = await fetch(`/i18n/${lang}.json`);
+    const res = await fetch(`${lang}.json`);
     const dict = await res.json();
 
     // Loop through every element that has data-i18n="some.key"
